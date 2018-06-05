@@ -2,59 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2fada50d-d7d1-4f06-b874-eb5de71b4344" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSDoc/App.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSDoc/App.js.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSDoc/AppHeader.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSDoc/AppSider.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSDoc/App_App.js.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSDoc/CreateLinks.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSDoc/Dashboard.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSDoc/Home.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSDoc/LinkForm.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSDoc/LinksTable.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSDoc/Login.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSDoc/LoginForm.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSDoc/Mylinks.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSDoc/Stats.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSDoc/common_AppHeader.js.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSDoc/common_AppSider.js.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSDoc/common_LoadingIndicator.js.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSDoc/fonts/OpenSans-Bold-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSDoc/fonts/OpenSans-Bold-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSDoc/fonts/OpenSans-Bold-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSDoc/fonts/OpenSans-BoldItalic-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSDoc/fonts/OpenSans-BoldItalic-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSDoc/fonts/OpenSans-BoldItalic-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSDoc/fonts/OpenSans-Italic-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSDoc/fonts/OpenSans-Italic-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSDoc/fonts/OpenSans-Italic-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSDoc/fonts/OpenSans-Light-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSDoc/fonts/OpenSans-Light-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSDoc/fonts/OpenSans-Light-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSDoc/fonts/OpenSans-LightItalic-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSDoc/fonts/OpenSans-LightItalic-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSDoc/fonts/OpenSans-LightItalic-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSDoc/fonts/OpenSans-Regular-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSDoc/fonts/OpenSans-Regular-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSDoc/fonts/OpenSans-Regular-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSDoc/global.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSDoc/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSDoc/initialize%20component%20state%20at%20mounting%20time.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSDoc/scripts/linenumber.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSDoc/scripts/prettify/Apache-License-2.0.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSDoc/scripts/prettify/lang-css.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSDoc/scripts/prettify/prettify.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSDoc/styles/jsdoc-default.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSDoc/styles/prettify-jsdoc.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSDoc/styles/prettify-tomorrow.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSDoc/user_home_Home.js.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSDoc/user_home_createlinks_CreateLinks.js.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSDoc/user_home_dashboard_Dashboard.js.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSDoc/user_home_mylinks_Mylinks.js.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSDoc/user_home_stats_Stats.js.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSDoc/user_login_Login.js.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSDoc/util_APIUtils.js.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/user/home/createlinks/CreateLinks.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/user/home/createlinks/CreateLinks.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/user/home/dashboard/Dashboard.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/user/home/dashboard/Dashboard.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/user/home/mylinks/Mylinks.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/user/home/mylinks/Mylinks.js" afterDir="false" />
@@ -75,8 +22,8 @@
       <file leaf-file-name="Dashboard.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/user/home/dashboard/Dashboard.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="639">
-              <caret line="74" column="38" lean-forward="true" selection-start-line="74" selection-start-column="38" selection-end-line="74" selection-end-column="38" />
+            <state relative-caret-position="395">
+              <caret line="73" column="24" selection-start-line="73" selection-start-column="24" selection-end-line="73" selection-end-column="24" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
@@ -99,8 +46,8 @@
       <file leaf-file-name="Mylinks.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/user/home/mylinks/Mylinks.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="190" column="41" lean-forward="true" selection-start-line="190" selection-start-column="41" selection-end-line="190" selection-end-column="41" />
+            <state relative-caret-position="250">
+              <caret line="195" column="24" selection-start-line="195" selection-start-column="24" selection-end-line="195" selection-end-column="24" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
@@ -117,11 +64,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Stats.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Stats.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/user/home/stats/Stats.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-541">
-              <caret line="41" column="51" lean-forward="true" selection-start-line="41" selection-start-column="51" selection-end-line="41" selection-end-column="51" />
+            <state relative-caret-position="379">
+              <caret line="42" column="24" selection-start-line="42" selection-start-column="24" selection-end-line="42" selection-end-column="24" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
@@ -165,7 +112,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CreateLinks.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="CreateLinks.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/user/home/createlinks/CreateLinks.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="125">
@@ -229,10 +176,10 @@
         <option value="$PROJECT_DIR$/src/App/App.js" />
         <option value="$PROJECT_DIR$/src/user/home/Home.js" />
         <option value="$PROJECT_DIR$/src/util/APIUtils.js" />
-        <option value="$PROJECT_DIR$/src/user/home/dashboard/Dashboard.js" />
-        <option value="$PROJECT_DIR$/src/user/home/mylinks/Mylinks.js" />
-        <option value="$PROJECT_DIR$/src/user/home/createlinks/CreateLinks.js" />
         <option value="$PROJECT_DIR$/src/user/home/stats/Stats.js" />
+        <option value="$PROJECT_DIR$/src/user/home/mylinks/Mylinks.js" />
+        <option value="$PROJECT_DIR$/src/user/home/dashboard/Dashboard.js" />
+        <option value="$PROJECT_DIR$/src/user/home/createlinks/CreateLinks.js" />
       </list>
     </option>
   </component>
@@ -412,12 +359,12 @@
       <workItem from="1526928031551" duration="1120000" />
       <workItem from="1528154859370" duration="1885000" />
       <workItem from="1528157211409" duration="4835000" />
-      <workItem from="1528168487988" duration="2611000" />
+      <workItem from="1528168487988" duration="2956000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="119328000" />
+    <option name="totallyTimeSpent" value="119673000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="83" y="73" width="1182" height="740" extended-state="0" />
@@ -824,10 +771,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/user/home/dashboard/Dashboard.js">
+    <entry file="file://$PROJECT_DIR$/src/user/home/stats/Stats.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="639">
-          <caret line="74" column="38" lean-forward="true" selection-start-line="74" selection-start-column="38" selection-end-line="74" selection-end-column="38" />
+        <state relative-caret-position="379">
+          <caret line="42" column="24" selection-start-line="42" selection-start-column="24" selection-end-line="42" selection-end-column="24" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
           </folding>
@@ -836,8 +783,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/user/home/mylinks/Mylinks.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="190" column="41" lean-forward="true" selection-start-line="190" selection-start-column="41" selection-end-line="190" selection-end-column="41" />
+        <state relative-caret-position="250">
+          <caret line="195" column="24" selection-start-line="195" selection-start-column="24" selection-end-line="195" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/user/home/dashboard/Dashboard.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="395">
+          <caret line="73" column="24" selection-start-line="73" selection-start-column="24" selection-end-line="73" selection-end-column="24" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
           </folding>
@@ -848,16 +805,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
           <caret line="43" column="15" lean-forward="true" selection-start-line="43" selection-start-column="15" selection-end-line="43" selection-end-column="15" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/user/home/stats/Stats.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-541">
-          <caret line="41" column="51" lean-forward="true" selection-start-line="41" selection-start-column="51" selection-end-line="41" selection-end-column="51" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
           </folding>

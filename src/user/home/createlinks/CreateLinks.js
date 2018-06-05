@@ -44,7 +44,7 @@ class CreateLinks extends Component {
         promise
             .then(response => {
                 response.content.forEach((row) => {
-                    date = new Date(row.creationDate);
+                    let date = new Date(row.creationDate);
                     row.creationDate = date.toDateString()});
                 this.reloadedLinks = this.reloadedLinks.concat(response.content);
                 this.page = response.page;

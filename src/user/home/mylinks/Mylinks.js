@@ -193,7 +193,7 @@ class Mylinks extends Component {
             .then(response => {
                 console.log(response);
                 response.content.forEach((row) => {
-                    date = new Date(row.creationDate);
+                    let date = new Date(row.creationDate);
                     row.creationDate = date.toDateString()});
                 this.setState({
                     links: this.state.links.concat(response.content),
