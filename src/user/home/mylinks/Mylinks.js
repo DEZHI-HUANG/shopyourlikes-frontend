@@ -196,7 +196,7 @@ class Mylinks extends Component {
                     let date = new Date(row.creationDate);
                     row.creationDate = date.toDateString()});
                 this.setState({
-                    links: this.state.links.concat(response.content),
+                    links: this.state.links.concat(response.links),
                     page: response.page,
                     size: response.size,
                     totalElements: response.totalElements,

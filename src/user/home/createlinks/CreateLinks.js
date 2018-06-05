@@ -46,7 +46,7 @@ class CreateLinks extends Component {
                 response.links.forEach((row) => {
                     let date = new Date(row.creationDate);
                     row.creationDate = date.toDateString()});
-                this.reloadedLinks = this.reloadedLinks.concat(response.content);
+                this.reloadedLinks = this.reloadedLinks.concat(response.links);
                 this.page = response.page;
                 this.last = response.last;
                 if (response.last) {
