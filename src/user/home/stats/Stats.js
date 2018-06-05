@@ -39,7 +39,7 @@ class Stats extends Component {
 
         promise
             .then(response => {
-                response.content.forEach((row) => {
+                response.links.forEach((row) => {
                     let date = new Date(row.creationDate);
                     row.creationDate = date.toDateString()});
                 this.links = this.links.concat(response.content);

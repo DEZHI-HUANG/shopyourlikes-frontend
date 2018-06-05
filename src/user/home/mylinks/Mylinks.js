@@ -192,7 +192,7 @@ class Mylinks extends Component {
         promise
             .then(response => {
                 console.log(response);
-                response.content.forEach((row) => {
+                response.links.forEach((row) => {
                     let date = new Date(row.creationDate);
                     row.creationDate = date.toDateString()});
                 this.setState({
