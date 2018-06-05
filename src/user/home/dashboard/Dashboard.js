@@ -117,7 +117,6 @@ class Dashboard extends Component {
            totalClicks += elem.redirects;
         });
         console.log(this.state.links);
-        this.state.links.slice(0,5).forEach((row) => {row.creationDate = row.creationDate.substr(0,10);});
         const dataSource = this.state.links.slice(0,5);
         const columns = [{
             title: 'Retailer',
