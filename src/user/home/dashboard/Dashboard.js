@@ -70,6 +70,9 @@ class Dashboard extends Component {
         this.setState({isLoading: true});
         promise
             .then(response => {
+                response.content.forEach((row) => {
+                    date = new Date(row.creationDate);
+                    row.creationDate = date.toDateString()});
                 this.setState({
                     links: this.state.links.concat(response.content),
                     page: response.page,

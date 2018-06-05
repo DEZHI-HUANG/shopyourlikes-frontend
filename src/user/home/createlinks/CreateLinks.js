@@ -43,6 +43,9 @@ class CreateLinks extends Component {
         this.setState({isLoading: true});
         promise
             .then(response => {
+                response.content.forEach((row) => {
+                    date = new Date(row.creationDate);
+                    row.creationDate = date.toDateString()});
                 this.reloadedLinks = this.reloadedLinks.concat(response.content);
                 this.page = response.page;
                 this.last = response.last;
@@ -194,6 +197,7 @@ class LinkForm extends Component {
             keys: nextKeys,
         });
     }
+
 
     /** Callback function that gets called when user submit form. Contect backend server to convert input urls to
      * SYL links.
